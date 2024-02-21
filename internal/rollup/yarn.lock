@@ -431,9 +431,9 @@ rimraf@~2.2.6:
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
   integrity sha1-5Dm+Kq7jJzIZUnMPmaiSnk/FBYI=
 
-rollup-plugin-node-resolve@gregmagolan/rollup-plugin-node-resolve#dist-4.0.0-ab35c968ca3803148ff21600402a8a5ff4be35af:
+rollup-plugin-node-resolve@rollup/rollup-plugin-node-resolve#dist-4.0.0-ab35c968ca3803148ff21600402a8a5ff4be35af:
   version "4.0.0-ab35c968ca3803148ff21600402a8a5ff4be35af"
-  resolved "https://codeload.github.com/gregmagolan/rollup-plugin-node-resolve/tar.gz/9d4096e7467a3045ed36625aec313edb137f8c8f"
+  resolved "https://codeload.github.com/rollup/rollup-plugin-node-resolve/tar.gz/9d4096e7467a3045ed36625aec313edb137f8c8f"
   dependencies:
     builtin-modules "^3.0.0"
     is-module "^1.0.0"
